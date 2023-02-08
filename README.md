@@ -1,4 +1,5 @@
 # Markdown Editor Tutorial
+![IMG](doc/image-about-readme.png)
 
 ### version Linux
 ![screenshot](./doc/screenshot-app-for-linux.png)
